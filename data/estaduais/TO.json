@@ -1,0 +1,22 @@
+[
+    {
+        "date": "08/09",
+        "title": "Nossa Senhora da Natividade",
+        "description": "Padroeira do Estado de Tocantins",
+        "legislation": "Lei estadual nº  627, de 28 de dezembro de 1993 - http://www.al.to.gov.br/arquivo/6883/visualizar",
+        "type": "feriado",
+        "startTime": "",
+        "endTime": "",
+        "variableDates": {}
+    },
+    {
+        "date": "05/10",
+        "title": "Aniversário de Tocantins",
+        "description": "Data Magna de Tocantins",
+        "legislation": "Lei nº 98, de 17 de novembro de 1989 - http://www.al.to.gov.br/arquivo/6358/visualizar",
+        "type": "feriado",
+        "startTime": "",
+        "endTime": "",
+        "variableDates": {}
+    }
+]
