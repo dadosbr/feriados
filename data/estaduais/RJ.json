@@ -1,0 +1,39 @@
+[
+    {
+        "date": "",
+        "title": "Terça-Feira de Carnaval",
+        "description": "",
+        "legislation": "Lei nº 5.243, de 14 de maio de 2008 - http://alerjln1.alerj.rj.gov.br/contlei.nsf/351902c88b9f0cde03256bcf00607a5b/063f7c027766eab48325744a007a4ab0",
+        "type": "feriado",
+        "startTime": "",
+        "endTime": "",
+        "variableDates": {
+            "2015": "17/02",
+            "2016": "09/02",
+            "2017": "28/02",
+            "2018": "13/02",
+            "2019": "05/03",
+            "2020": "25/02"
+        }
+    },
+    {
+        "date": "23/04",
+        "title": "Dia de São Jorge",
+        "description": "Padroeiro extra-oficial do Estado do Rio de Janeiro",
+        "legislation": "Lei nº 5.198, de 05 de março de 2008 - http://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/c8aa0900025feef6032564ec0060dfff/1baf90ca125ff96f8325740a00776600",
+        "type": "feriado",
+        "startTime": "",
+        "endTime": "",
+        "variableDates": {}
+    },
+    {
+        "date": "20/11",
+        "title": "Dia da Consciência Negra",
+        "description": "Aniversário da morte de Zumbi dos Palmares e dia Nacional da Consciência Negra",
+        "legislation": "Lei nº 526, de 15 de janeiro de 1982 - http://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/69d90307244602bb032567e800668618/80a541c3a5a9d63183256c7d0057bf25",
+        "type": "feriado",
+        "startTime": "",
+        "endTime": "",
+        "variableDates": {}
+    }
+]
